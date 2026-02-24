@@ -1,3 +1,7 @@
+Descarga e instalacion:
+    dentro de tu terminal en la carpeta que deses guardar el proyecto ingresa el siguiente comando
+    git clone https://github.com/YoosvA/ejercicio2EntrevistaTecnica.git
+
 Recomendacion:
     instalar la extension "Live Server" en visual studio code para mas comodidad
 
